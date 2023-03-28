@@ -6,3 +6,4 @@
 - Project (Data Preprocessing + Data Mining (กลุ่ม))  ->  20%
 - Homework  (แบ่งกลุ่มใหม่ทุกครั้ง)  ->  20%
 - Quiz     (เดี่ยว ถามในห้อง)  -> 10%
+'https://kkumail-my.sharepoint.com/:u:/p/suriya_pan/EVb8S591ztZJh9hxmO5r6rABMPbw3L4Zu6RD5iEZ8y2h_Q?e=XuLIBx'
