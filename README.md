@@ -17,6 +17,7 @@
 
 ## Collab
 [Project](https://colab.research.google.com/github/Suriya6744/bsc_dpdm22/blob/main/Project.ipynb)
+
 ## R
 [R1](https://kkumail-my.sharepoint.com/:u:/p/suriya_pan/EbP4JPYlsxhHqM2pk0vaS94Bkt-d3LufVnM66HLzoBW2Pw?e=UPwArT)
 
